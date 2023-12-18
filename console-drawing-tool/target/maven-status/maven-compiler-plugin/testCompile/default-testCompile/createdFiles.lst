@@ -1,6 +1,0 @@
-org\drawing\command\CanvasCommandTest.class
-org\drawing\command\LineCommandTest.class
-org\drawing\command\RectangleCommandTest.class
-org\drawing\command\CommandFactoryTest.class
-org\drawing\drawer\CanvasDrawerTest.class
-org\drawing\util\CommandUtilsTest.class
