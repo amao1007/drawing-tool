@@ -2,12 +2,9 @@ package org.drawing.drawer;
 
 import org.drawing.command.*;
 import org.drawing.exception.CanvasDrawException;
-import org.drawing.exception.InvalidCommandException;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
 
 /**
  * Copyright (c) 2023 Vic.cn. All rights reserved.

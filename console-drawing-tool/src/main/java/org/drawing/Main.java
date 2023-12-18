@@ -1,11 +1,6 @@
 package org.drawing;
 
 import org.drawing.command.Command;
-import org.drawing.command.CommandFactory;
-import org.drawing.command.QuitCommand;
-import org.drawing.drawer.CanvasDrawer;
-import org.drawing.exception.CanvasDrawException;
-import org.drawing.exception.InvalidCommandException;
 import org.drawing.processor.DrawCommandProcessor;
 
 import java.util.Scanner;

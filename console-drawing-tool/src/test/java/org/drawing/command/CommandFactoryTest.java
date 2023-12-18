@@ -1,12 +1,10 @@
 package org.drawing.command;
 
 import org.drawing.exception.InvalidCommandException;
-import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
 
 /**
  * Copyright (c) 2023 Vic.cn. All rights reserved.

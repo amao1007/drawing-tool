@@ -7,6 +7,7 @@ package org.drawing.exception;
  * @date 2023/12/17
  **/
 public class CanvasDrawException extends RuntimeException {
+    private static final long serialVersionUID = 1L;
     public CanvasDrawException(String message) {
         super(message);
     }

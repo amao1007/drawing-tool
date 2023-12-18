@@ -3,8 +3,6 @@ package org.drawing.util;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * Copyright (c) 2023 Vic.cn. All rights reserved.
  *

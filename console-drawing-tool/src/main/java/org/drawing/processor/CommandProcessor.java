@@ -1,7 +1,5 @@
 package org.drawing.processor;
 
-import org.drawing.command.Command;
-
 /**
  * Copyright (c) 2023 Vic.cn. All rights reserved.
  *
